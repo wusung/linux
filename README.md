@@ -11,3 +11,5 @@
 - [https://www.linuxadictos.com/zh-TW/](https://www.linuxadictos.com/zh-TW/)
 
 
+### Reference
+- [Linux related Infographics and Cheat Sheets - General Discussion - Clear Linux OS Forum](https://community.clearlinux.org/t/linux-related-infographics-and-cheat-sheets/2010/27)
